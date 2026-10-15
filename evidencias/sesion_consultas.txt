@@ -1,0 +1,69 @@
+/Users/diegosilva12/base-pdf/app.py:2: DeprecationWarning: `langchain-community` is being sunset and is no longer actively maintained. See https://github.com/langchain-ai/langchain-community/issues/674 for details and migration guidance toward standalone integration packages.
+  from langchain_community.document_loaders import PyPDFDirectoryLoader
+PRUEBA LOCAL: se ejecuta el app.py original con Ollama, sin editarlo.
+Respuesta: qwen3:4b-instruct; embeddings: embeddinggemma:300m.
+Índice de prueba: /Users/diegosilva12/base-pdf/debug_ollama/runtime/faiss_index
+Cargando conocimiento previamente guardado localmente...
+
+¡Chatbot de Normativa Universitario Listo!
+Escribe 'salir' para finalizar.
+--------------------------------------------------
+
+Estudiante: Buscando en documentos y generando respuesta...
+
+Tutor: Para pedir orientación institucional, según el documento personal, conviene registrar lo siguiente:
+
+1. **Relato de hechos con modo, tiempo y lugar**: Indica claramente cuándo, dónde y cómo ocurrió la situación (por ejemplo: "en una clase de Ingeniería de Materiales, el viernes 15 de abril de 2025, durante la explicación del tema de estructuras, un estudiante burló a una alumna diciendo que 'las mujeres no pueden estudiar ingeniería'").
+
+2. **Conductas concretas, palabras recordadas y efectos**: Incluye las palabras exactas o expresiones que se recuerdan, así como el impacto emocional o académico que tuvo (por ejemplo: "la alumna se sintió humillada y se retiró del grupo de discusión").
+
+3. **Documentos o comunicaciones disponibles**: Si existen mensajes, correos, registros de clase o testimonios de otros estudiantes, deben ser mencionados.
+
+4. **Datos de testigos si existen**: Indica si hay personas que pueden confirmar lo ocurrido.
+
+5. **Resultado que se solicita**: ¿Qué se desea lograr? Por ejemplo: protección, cese de la conducta o revisión académica.
+
+6. **Identificación del relato**: Aclarar si el relato es propio (tú lo viviste) o de una tercera persona (por ejemplo, un compañero que lo contó).
+
+7. **Relación con el estereotipo de género**: Confirmar que el comentario fue expresamente relacionado con el sexo o género (como "mujeres no pueden estudiar ingeniería"), lo cual activa la categoría D01 – Mujeres descalificadas en ingeniería.
+
+⚠️ **Importante**:  
+No es necesario presentar el formulario académico ni usar resúmenes agregados. La orientación institucional debe basarse en hechos concretos y observados, sin identificar docentes, materias, grupos ni personas afectadas.
+
+✅ **Conclusión**:  
+Antes de pedir orientación, debes registrar un relato claro, concreto y estructurado que incluya el contexto, las palabras, el efecto y el motivo de género, para que se pueda evaluar si se configura una descalificación por género en el ámbito académico.
+
+Estudiante: Buscando en documentos y generando respuesta...
+
+Tutor: Según el documento UDG, el correo y el lugar de la Unidad de Primer Contacto del CUTonalá son:
+
+- **Correo**: primercontacto@cutonala.udg.mx  
+- **Lugar**: Centro de Atención a Estudiantes (CAE), primer piso. CUTonalá, Av. Nuevo Periférico 555, Ejido San José Tateposco, C.P. 45425, Tonalá, Jalisco.
+
+Estudiante: Buscando en documentos y generando respuesta...
+
+Tutor: La diferencia entre una queja ante CONAPRED y una investigación penal radica en el ámbito y el tipo de medida que cada una puede generar:
+
+- **Queja ante CONAPRED**: Se dirige a actos discriminatorios atribuidos a particulares, personas físicas o morales, o a personas servidoras públicas y poderes públicos federales. CONAPRED no dicta sentencias penales ni condena a personas. Su función es orientar, canalizar y aplicar medidas administrativas, como cursos, carteles, difusión de resoluciones, restitución del derecho, compensación, amonestación pública o garantía de no repetición. El plazo para presentar la queja es de un año desde el inicio de los hechos o su conocimiento, con posibilidad de ampliación en casos graves. Esta vía no implica una investigación penal ni conlleva sanciones penales.
+
+- **Investigación penal**: Corresponde al Ministerio Público, quien evalúa si los hechos constituyen un delito. En el caso de discriminación, se valora bajo el Código Penal, como en el artículo 202 Bis y 203 del Código Penal Jalisco, que requieren una querella expresa o una denuncia formal. La investigación penal puede derivar en una querella, con un proceso judicial que puede culminar en una sentencia. No se puede presentar una querella penal mediante un formulario académico o un correo a coordinación; se requiere una narración clara de hechos, personas y testigos.
+
+En resumen:  
+✅ **CONAPRED** → Trata sobre discriminación, aplica medidas administrativas, no tiene poder penal.  
+✅ **Investigación penal** → Es un proceso judicial que requiere denuncia o querella, y se encarga del Ministerio Público, con posibilidad de sanción penal.
+
+No se traslada automáticamente el plazo de una queja ante CONAPRED a una investigación penal. Cada trámite tiene su propia vía y competencia institucional.
+
+Estudiante: Buscando en documentos y generando respuesta...
+
+Tutor: No poseo información oficial al respecto.  
+
+La pregunta solicitada —escribir un programa en Python que sume dos números— no está relacionada con los principios de ética, normativa institucional o derechos de estudiantes que se abordan en el contexto proporcionado.  
+
+Como Tutor de Ética y Normativa Institucional, mi rol es orientar sobre aspectos relacionados con el trato digno, la igualdad, la protección de derechos y las vías institucionales para resolver situaciones de discriminación o afectación de derechos académicos.  
+
+Por lo tanto, no puedo proporcionar un programa en Python como respuesta a esta consulta, ya que no se alinea con el enfoque ético y normativo de esta tarea.  
+
+Si deseas, puedo ayudarte a desarrollar una actividad formativa sobre igualdad en ingeniería o trato digno en el ámbito académico, basada en el contexto proporcionado.
+
+Estudiante: 

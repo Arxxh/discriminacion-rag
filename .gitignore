@@ -1,0 +1,15 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+faiss_index/
+.indice-*/
+conocimientos/**/*.pdf
+conocimientos/**/*.PDF
+.ollama.log
+originales/
+debug_ollama/runtime/
+tmp/
+entrega_discriminacion/
+.vscode/
